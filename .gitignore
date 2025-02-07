@@ -1,0 +1,9 @@
+# Virtual environment folder
+venv/
+
+# Uploads folder (if you don’t want to push uploaded files)
+uploads/
+
+# Python cache files
+__pycache__/
+*.pyc
